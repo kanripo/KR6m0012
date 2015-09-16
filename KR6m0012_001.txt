@@ -1,24 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:13.330486
+#+DATE: 2015-08-30 20:53:14.921953
 #+TITLE: 百論
 #+PROPERTY: CBETA_ID T30n1569
 #+PROPERTY: ID KR6m0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1569
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0012_T_000-0167c>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0012_T_001-0167c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1569[cf.Nos.1570,1571]¶
+No. 1569 [cf. Nos. 1570, 1571]¶
 
-序
-:PROPERTIES:
-:head: 《百論》序
-:END:
-¶
+《百論》序¶
 ¶
 釋僧肇作¶
 
@@ -56,17 +52,12 @@ No.1569[cf.Nos.1570,1571]¶
 ¶
 ¶
 ¶
-
- 《百論》卷上¶
+《百論》卷上¶
 ¶
 提婆菩薩造　婆藪開士釋¶
 姚秦三藏鳩摩羅什譯¶
 
-1捨罪福品
-:PROPERTIES:
-:head: 捨罪福品第一
-:END:
-¶
+捨罪福品第一¶
 
 #+BEGIN_VERSE
 「　頂禮佛足哀世尊
@@ -314,11 +305,7 @@ No.1569[cf.Nos.1570,1571]¶
 言我不用空無相無作。欲得若知若見。無¶
 增上慢者。是人空言無實。¶
 
-2破神品
-:PROPERTIES:
-:head: 破神品第二
-:END:
-¶
+破神品第二¶
 
 外曰。不應言一切法空無相。神等諸法有¶
 故(修妬路)。迦毘羅。優樓迦等言。神及諸法有。迦¶
@@ -571,11 +558,7 @@ No.1569[cf.Nos.1570,1571]¶
 不燒應名不燒。何以故。是衣多不燒。實有¶
 用故。是以莫著語言。¶
 
-3破一品
-:PROPERTIES:
-:head: 破一品第三
-:END:
-¶
+破一品第三¶
 
 外曰。應有神。有一瓶等。神所有故(修妬路)。若¶
 有神則有神所有。若無神則無神所有。有¶
